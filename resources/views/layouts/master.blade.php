@@ -8,16 +8,7 @@
 </head>
 
 <body>
-<div class="container">
-    <div class="card mt-3">
-        <div class="card-header bg-info">
-            <h3 class="card-title">@yield("title")</h3>  
-        </div>
-    </div>
-    <div class="row">
-        @yield("content")
-    </div>
-</div>
+
 
 
 
