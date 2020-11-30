@@ -46,10 +46,6 @@ Route::prefix('UI')->group(function(){
     return view("home");
   });
 
-  Route::get('/contact-us', function(){
-    return view("contact-us");
-  });
-
 
 
 });
